@@ -3,7 +3,7 @@
 //  ZiPeiYi
 //
 //  Created by 刘成利 on 16/11/18.
-//  Copyright © 2016年 YouXianMing. All rights reserved.
+//  Copyright © 2016年 刘成利. All rights reserved.
 //
 
 #import "LauchADViewController.h"
